@@ -12,5 +12,5 @@ resource "aws_instance" "test_VM" {
 }
 
 variable "vm_name" {
-  description = "Name for VM to be created5"
+  description = "Name for VM to be created6"
 }

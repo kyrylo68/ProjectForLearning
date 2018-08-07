@@ -7,7 +7,7 @@ resource "aws_instance" "test_VM" {
   instance_type = "t2.micro"
 
   tags {
-    Name = "111kuyhkjy_${var.vm_name}"
+    Name = "112kuyhkjy_${var.vm_name}"
   }
 }
 
